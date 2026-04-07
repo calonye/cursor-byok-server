@@ -1,18 +1,21 @@
 ## Cursor Byok API Server
-cursor-byok-server 是 Cursor助手的Pro模式的服务端。无限量支持tab和byok,支持自定义API使用Cursor。
 
-#### 前提和原理
+cursor-byok-server is the server for Cursor Assistant's Pro mode. It supports an unlimited number of tabs and byok, and allows for custom API usage with Cursor.
 
-其原理是通过一个**具有byok资格的token**将「Cursor tab」流量和「Cursor Agent」流量转发到官方服务。
+#### Prerequisites and Principles
 
+The principle is to forward the traffic of 'Cursor tab' and 'Cursor Agent' to the official service through a **token with byok qualification**.
 
-其中「Cursor Agent」强制byok，你必须在客户端转发中实现特定特征并告知私有模型配置信息。才允许通过agent服务。
+The 'Cursor Agent' enforces byok, and you must implement specific features in the client forwarding and provide private model configuration information to allow passage through the agent service.
 
-- [bilibili 主页](https://space.bilibili.com/311706663) 
-- [客户端（未开源）](https://dcne38qm5vlg.feishu.cn/wiki/YGaWw1ejXiiJ8EkismtcoIYUnNd) 
+- [Bilibili Homepage](https://space.bilibili.com/311706663)
 
-#### 注意
-本服务是为Cursor助手中的一个模式的服务端转发，Cursor助手的核心能力在于**本地模式**，此服务作为中期临时过渡，当**本地模式**生产可用时，此服务将被弃用
+- [Client (not open source)](https://dcne38qm5vlg.feishu.cn/wiki/YGaWw1ejXiiJ8EkismtcoIYUnNd)
 
-#### 构建和部署
-- 仅推荐Docker构建和部署。
+#### Note
+
+This service is for the server forwarding of a mode within Cursor Assistant. The core capability of Cursor Assistant lies in the **local mode**, and this service serves as a temporary intermediate solution. When the **local mode** becomes production-ready, this service will be deprecated.
+
+#### Building and Deployment
+
+- It is recommended to build and deploy using Docker only.
