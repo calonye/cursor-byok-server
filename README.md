@@ -19,3 +19,13 @@ This service is for the server forwarding of a mode within Cursor Assistant. The
 #### Building and Deployment
 
 - It is recommended to build and deploy using Docker only.
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=leookun%2Fcursor-byok-server&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=leookun/cursor-byok-server&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=leookun/cursor-byok-server&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=leookun/cursor-byok-server&type=date&legend=top-left" />
+ </picture>
+</a>
