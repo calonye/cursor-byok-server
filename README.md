@@ -10,7 +10,7 @@ The 'Cursor Agent' enforces byok, and you must implement specific features in th
 
 - [Bilibili Homepage](https://space.bilibili.com/311706663)
 
-- [Client (not open source)](https://dcne38qm5vlg.feishu.cn/wiki/YGaWw1ejXiiJ8EkismtcoIYUnNd)
+- [Client (not open source)](https://dcne38qm5vlg.feishu.cn/wiki/JeP7wdGnziBXuikNaF5czWbrn8c)
 
 #### Note
 
