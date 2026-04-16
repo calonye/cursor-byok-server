@@ -1,3 +1,8 @@
+This service has been deprecated. The local-first client is now production-ready!
+See: https://github.com/leookun/cursor-byok/releases
+
+
+
 ## Cursor Byok API Server
 
 cursor-byok-server is the server for Cursor Assistant's Pro mode. It supports an unlimited number of tabs and byok, and allows for custom API usage with Cursor.
